@@ -33,7 +33,7 @@ Feel free to submit a pull request, they will be processed in a week or less.
 
 ## Authors
 
-* **Ryan Premi**- *Media Analysis* - [rpremi12](https://github.com/rpremi12)
+* **Ryan Premi**- [rpremi12](https://github.com/rpremi12)
 
 
 ## Acknowledgments
