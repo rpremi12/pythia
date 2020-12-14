@@ -23,7 +23,7 @@ Import new_scraper to use the "scraper" scraper function in python to generate h
 
 * [NewsAPI](https://newsapi.org/) - Headline Scraper
 * [NTLK](https://github.com/nltk/nltk) - Natural Lanugage processing
-* [Sklearn](http://scikit-learn.org/stable/index.html) - Machine Learning Library
+* [scikit-learn](http://scikit-learn.org/stable/index.html) - Machine Learning Library
 
 
 ## Contributing
@@ -39,4 +39,4 @@ Feel free to submit a pull request, they will be processed in a week or less.
 ## Acknowledgments
 
 * NewsAPI and NTLK
-* sklearn
+* scikit-learn
