@@ -2,7 +2,7 @@
 
 Machine Learning and Media Sentiment analysis approach to stock and currency analysis.
 
-Pythia is a combination of several different projects developed between 2018 and 2019.
+Pythia is a combination of several different personal projects developed between 2018 and 2019.
 
 ## Installing
 
