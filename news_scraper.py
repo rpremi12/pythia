@@ -132,6 +132,6 @@ def scrape(q=None, language=None, country = None, category=None, sources= None,p
 
 def main():
     #print(scorer("your waifu is trash"))
-     test = scrape("Bitcoin", category="business")
+     test = scrape("Tesla", category="business")
 if __name__ == "__main__":
     main()

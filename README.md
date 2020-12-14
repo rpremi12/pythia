@@ -1,6 +1,8 @@
-# Pythia 
+![Pythia](header.png)
 
-Machine Learning and Media Sentiment analysis approach to stock and currency analysis. Pythia is a combination of several different projects developed between 2018 and 2019.
+Machine Learning and Media Sentiment analysis approach to stock and currency analysis.
+
+Pythia is a combination of several different projects developed between 2018 and 2019.
 
 ## Installing
 
@@ -28,9 +30,11 @@ Import new_scraper to use the "scraper" scraper function in python to generate h
 
 Feel free to submit a pull request, they will be processed in a week or less.
 
-## Author
 
-* **Ryan Premi**-  [rpremi12](https://github.com/rpremi12)
+## Authors
+
+* **Ryan Premi**- *Media Analysis* - [rpremi12](https://github.com/rpremi12)
+
 
 ## Acknowledgments
 
