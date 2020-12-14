@@ -131,7 +131,6 @@ def scrape(q=None, language=None, country = None, category=None, sources= None,p
     headl_data.close()
 
 def main():
-    #print(scorer("your waifu is trash"))
      test = scrape("Tesla", category="business")
 if __name__ == "__main__":
     main()

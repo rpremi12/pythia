@@ -12,7 +12,12 @@ Download and extract the zip and run with python3 "setup.py".
 python3 setup.py
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+To run the analysis on the example set:
+
+```
+python3 news_scraper.py
+```
+
 
 ## Deployment
 
