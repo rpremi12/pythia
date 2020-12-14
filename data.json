@@ -1,0 +1,30 @@
+{
+    "articles": [
+        {
+            "url": "https://www.coincrispy.com/2018/07/09/shitcoin-nodo-grande-lightning-network/",
+            "description": "El CEO del Shitcoin.com revel\u00f3 que habilit\u00f3 el nodo en el Lightning Network para Bitcoin m\u00e1s grande, de hasta $50 mil d\u00f3lares.",
+            "source": {
+                "name": "Coincrispy.com",
+                "id": null
+            },
+            "urlToImage": "https://cdn.coincrispy.com/wp-content/uploads/2018/07/shitcoin.jpg",
+            "title": "Shitcoin.com habilita el nodo m\u00e1s grande de Lightning Network para Bitcoin",
+            "author": null,
+            "publishedAt": "2018-07-09T20:37:59Z"
+        },
+        {
+            "url": "https://canaltech.com.br/criptomoedas/ethereum-ultrapassa-o-bitcoin-como-preferencia-entre-investidores-diz-estudo-117490/",
+            "description": "Pesquisa conduzida entre investidores de criptomoedas pela ag\u00eancia de advocacia de Nova York Foley and Lardner revelou que 38% consideram o Ethereum a melhor oportunidade de investimento; o Bitcoin aparece em segundo lugar, como prefer\u00eancia de 35% dos entrevi\u2026",
+            "source": {
+                "name": "Canaltech.com.br",
+                "id": null
+            },
+            "urlToImage": "https://timeline.canaltech.com.br/298066.700/ethereum-ultrapassa-o-bitcoin-como-preferencia-entre-investidores-diz-estudo-117490.jpg",
+            "title": "Ethereum ultrapassa o Bitcoin como prefer\u00eancia entre investidores, diz estudo",
+            "author": null,
+            "publishedAt": "2018-07-09T20:33:00Z"
+        }
+    ],
+    "totalResults": 2,
+    "status": "ok"
+}
